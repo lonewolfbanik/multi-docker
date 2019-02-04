@@ -1,0 +1,147 @@
+[2019-02-01 13:26:20.687] [main] [info] update#setState idle
+[2019-02-01 13:26:50.692] [main] [info] update#setState checking for updates
+[2019-02-01 13:26:51.045] [main] [info] update#setState idle
+[2019-02-01 14:26:50.708] [main] [info] update#setState checking for updates
+[2019-02-01 14:26:52.064] [main] [info] update#setState idle
+[2019-02-01 15:26:50.746] [main] [info] update#setState checking for updates
+[2019-02-01 15:26:51.997] [main] [info] update#setState idle
+[2019-02-01 16:26:50.775] [main] [info] update#setState checking for updates
+[2019-02-01 16:26:52.220] [main] [info] update#setState idle
+[2019-02-01 17:26:50.804] [main] [info] update#setState checking for updates
+[2019-02-01 17:26:51.726] [main] [info] update#setState idle
+[2019-02-01 18:26:50.834] [main] [info] update#setState checking for updates
+[2019-02-01 18:27:10.860] [main] [error] Error: net::ERR_NAME_RESOLUTION_FAILED
+[2019-02-01 18:27:10.860] [main] [info] update#setState idle
+[2019-02-01 19:26:50.837] [main] [info] update#setState checking for updates
+[2019-02-01 19:26:51.762] [main] [info] update#setState idle
+[2019-02-01 20:26:50.864] [main] [info] update#setState checking for updates
+[2019-02-01 20:26:51.804] [main] [info] update#setState idle
+[2019-02-01 21:26:50.881] [main] [info] update#setState checking for updates
+[2019-02-01 21:26:52.069] [main] [info] update#setState idle
+[2019-02-01 22:26:50.906] [main] [info] update#setState checking for updates
+[2019-02-01 22:26:52.062] [main] [info] update#setState idle
+[2019-02-01 23:26:51.028] [main] [info] update#setState checking for updates
+[2019-02-01 23:26:52.934] [main] [info] update#setState idle
+[2019-02-02 00:26:51.052] [main] [info] update#setState checking for updates
+[2019-02-02 00:26:51.992] [main] [info] update#setState idle
+[2019-02-02 01:26:51.079] [main] [info] update#setState checking for updates
+[2019-02-02 01:26:51.985] [main] [info] update#setState idle
+[2019-02-02 02:26:51.109] [main] [info] update#setState checking for updates
+[2019-02-02 02:26:52.005] [main] [info] update#setState idle
+[2019-02-02 03:26:51.122] [main] [info] update#setState checking for updates
+[2019-02-02 03:26:52.348] [main] [info] update#setState idle
+[2019-02-02 04:26:51.144] [main] [info] update#setState checking for updates
+[2019-02-02 04:26:52.463] [main] [info] update#setState idle
+[2019-02-02 05:26:51.164] [main] [info] update#setState checking for updates
+[2019-02-02 05:26:52.032] [main] [info] update#setState idle
+[2019-02-02 06:26:51.170] [main] [info] update#setState checking for updates
+[2019-02-02 06:26:51.967] [main] [info] update#setState idle
+[2019-02-02 07:26:51.192] [main] [info] update#setState checking for updates
+[2019-02-02 07:26:52.000] [main] [info] update#setState idle
+[2019-02-02 08:26:51.216] [main] [info] update#setState checking for updates
+[2019-02-02 08:26:51.998] [main] [info] update#setState idle
+[2019-02-02 09:26:51.225] [main] [info] update#setState checking for updates
+[2019-02-02 09:26:51.997] [main] [info] update#setState idle
+[2019-02-02 10:26:51.229] [main] [info] update#setState checking for updates
+[2019-02-02 10:26:52.074] [main] [info] update#setState idle
+[2019-02-02 11:26:51.232] [main] [info] update#setState checking for updates
+[2019-02-02 11:26:52.022] [main] [info] update#setState idle
+[2019-02-02 12:26:51.253] [main] [info] update#setState checking for updates
+[2019-02-02 12:26:52.470] [main] [info] update#setState idle
+[2019-02-02 13:26:51.260] [main] [info] update#setState checking for updates
+[2019-02-02 13:26:52.057] [main] [info] update#setState idle
+[2019-02-02 14:26:51.281] [main] [info] update#setState checking for updates
+[2019-02-02 14:26:52.182] [main] [info] update#setState idle
+[2019-02-02 15:26:51.301] [main] [info] update#setState checking for updates
+[2019-02-02 15:26:52.251] [main] [info] update#setState idle
+[2019-02-02 16:26:51.320] [main] [info] update#setState checking for updates
+[2019-02-02 16:26:52.295] [main] [info] update#setState idle
+[2019-02-02 17:26:51.335] [main] [info] update#setState checking for updates
+[2019-02-02 17:26:52.241] [main] [info] update#setState idle
+[2019-02-02 18:26:51.341] [main] [info] update#setState checking for updates
+[2019-02-02 18:26:52.239] [main] [info] update#setState idle
+[2019-02-02 19:27:56.570] [main] [info] update#setState checking for updates
+[2019-02-02 19:27:57.869] [main] [info] update#setState idle
+[2019-02-02 20:27:56.582] [main] [info] update#setState checking for updates
+[2019-02-02 20:27:57.419] [main] [info] update#setState idle
+[2019-02-02 21:27:56.599] [main] [info] update#setState checking for updates
+[2019-02-02 21:27:57.486] [main] [info] update#setState idle
+[2019-02-02 22:27:56.616] [main] [info] update#setState checking for updates
+[2019-02-02 22:27:57.532] [main] [info] update#setState idle
+[2019-02-02 23:27:56.630] [main] [info] update#setState checking for updates
+[2019-02-02 23:27:57.581] [main] [info] update#setState idle
+[2019-02-03 00:27:56.645] [main] [info] update#setState checking for updates
+[2019-02-03 00:27:57.503] [main] [info] update#setState idle
+[2019-02-03 01:27:56.658] [main] [info] update#setState checking for updates
+[2019-02-03 01:27:58.065] [main] [info] update#setState idle
+[2019-02-03 02:27:56.670] [main] [info] update#setState checking for updates
+[2019-02-03 02:27:58.334] [main] [info] update#setState idle
+[2019-02-03 03:27:56.682] [main] [info] update#setState checking for updates
+[2019-02-03 03:27:57.507] [main] [info] update#setState idle
+[2019-02-03 04:27:56.694] [main] [info] update#setState checking for updates
+[2019-02-03 04:27:57.879] [main] [info] update#setState idle
+[2019-02-03 05:27:56.710] [main] [info] update#setState checking for updates
+[2019-02-03 05:27:57.532] [main] [info] update#setState idle
+[2019-02-03 06:27:56.719] [main] [info] update#setState checking for updates
+[2019-02-03 06:27:57.754] [main] [info] update#setState idle
+[2019-02-03 07:27:56.734] [main] [info] update#setState checking for updates
+[2019-02-03 07:27:57.521] [main] [info] update#setState idle
+[2019-02-03 08:27:56.743] [main] [info] update#setState checking for updates
+[2019-02-03 08:27:57.558] [main] [info] update#setState idle
+[2019-02-03 09:27:56.755] [main] [info] update#setState checking for updates
+[2019-02-03 09:27:57.579] [main] [info] update#setState idle
+[2019-02-03 10:27:56.761] [main] [info] update#setState checking for updates
+[2019-02-03 10:27:57.488] [main] [info] update#setState idle
+[2019-02-03 11:27:56.770] [main] [info] update#setState checking for updates
+[2019-02-03 11:27:57.547] [main] [info] update#setState idle
+[2019-02-03 12:27:56.782] [main] [info] update#setState checking for updates
+[2019-02-03 12:27:57.495] [main] [info] update#setState idle
+[2019-02-03 13:27:56.791] [main] [info] update#setState checking for updates
+[2019-02-03 13:27:57.493] [main] [info] update#setState idle
+[2019-02-03 14:27:56.803] [main] [info] update#setState checking for updates
+[2019-02-03 14:27:58.064] [main] [info] update#setState idle
+[2019-02-03 15:27:56.810] [main] [info] update#setState checking for updates
+[2019-02-03 15:27:57.515] [main] [info] update#setState idle
+[2019-02-03 16:27:56.820] [main] [info] update#setState checking for updates
+[2019-02-03 16:27:57.659] [main] [info] update#setState idle
+[2019-02-03 17:27:56.831] [main] [info] update#setState checking for updates
+[2019-02-03 17:27:57.522] [main] [info] update#setState idle
+[2019-02-03 18:27:56.840] [main] [info] update#setState checking for updates
+[2019-02-03 18:27:57.568] [main] [info] update#setState idle
+[2019-02-03 19:27:56.845] [main] [info] update#setState checking for updates
+[2019-02-03 19:28:02.770] [main] [info] update#setState idle
+[2019-02-03 20:27:56.852] [main] [info] update#setState checking for updates
+[2019-02-03 20:27:57.722] [main] [info] update#setState idle
+[2019-02-03 21:27:56.858] [main] [info] update#setState checking for updates
+[2019-02-03 21:27:57.856] [main] [info] update#setState idle
+[2019-02-03 22:27:56.866] [main] [info] update#setState checking for updates
+[2019-02-03 22:27:57.614] [main] [info] update#setState idle
+[2019-02-03 23:27:56.871] [main] [info] update#setState checking for updates
+[2019-02-03 23:27:57.763] [main] [info] update#setState idle
+[2019-02-04 00:27:56.874] [main] [info] update#setState checking for updates
+[2019-02-04 00:27:58.116] [main] [info] update#setState idle
+[2019-02-04 01:27:56.877] [main] [info] update#setState checking for updates
+[2019-02-04 01:27:57.719] [main] [info] update#setState idle
+[2019-02-04 02:27:56.880] [main] [info] update#setState checking for updates
+[2019-02-04 02:27:57.756] [main] [info] update#setState idle
+[2019-02-04 03:27:56.898] [main] [info] update#setState checking for updates
+[2019-02-04 03:27:57.798] [main] [info] update#setState idle
+[2019-02-04 04:27:56.939] [main] [info] update#setState checking for updates
+[2019-02-04 04:27:57.753] [main] [info] update#setState idle
+[2019-02-04 05:27:57.000] [main] [info] update#setState checking for updates
+[2019-02-04 05:27:57.840] [main] [info] update#setState idle
+[2019-02-04 06:27:57.555] [main] [info] update#setState checking for updates
+[2019-02-04 06:27:58.411] [main] [info] update#setState idle
+[2019-02-04 07:27:57.615] [main] [info] update#setState checking for updates
+[2019-02-04 07:27:58.527] [main] [info] update#setState idle
+[2019-02-04 08:27:57.666] [main] [info] update#setState checking for updates
+[2019-02-04 08:27:58.803] [main] [info] update#setState idle
+[2019-02-04 09:27:58.000] [main] [info] update#setState checking for updates
+[2019-02-04 09:27:58.014] [main] [error] Error: net::ERR_NAME_RESOLUTION_FAILED
+[2019-02-04 09:27:58.015] [main] [info] update#setState idle
+[2019-02-04 10:27:58.059] [main] [info] update#setState checking for updates
+[2019-02-04 10:27:58.922] [main] [info] update#setState idle
+[2019-02-04 11:27:58.110] [main] [info] update#setState checking for updates
+[2019-02-04 11:27:58.962] [main] [info] update#setState idle
+[2019-02-04 12:27:58.160] [main] [info] update#setState checking for updates
+[2019-02-04 12:27:59.379] [main] [info] update#setState idle

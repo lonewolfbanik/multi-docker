@@ -1,0 +1,5 @@
+Visual Studio Code GitHub Extension
+git symbolic-ref -q HEAD
+git --version
+Failed to connect to provider "Command failed: git symbolic-ref -q HEAD\nfatal: Not a git repository (or any parent up to mount point /home/lonewolf)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n\n"
+git branch
