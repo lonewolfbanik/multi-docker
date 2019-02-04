@@ -3,19 +3,19 @@ services:
   - docker
 
 before_install: 
-  - docker build -t prasanjitb/react-test -f ./client/Dockerfile.dev ./client
+  - docker build -t cursedwolf/react-test -f ./client/Dockerfile.dev ./client
 
 script:
-  - docker run prasanjitb/react-test npm test -- --coverage
+  - docker run cursedwolf/react-test npm test -- --coverage
 
 after_success:
-  - docker build -t prasanjitb/multi-client ./client
-  - docker build -t prasanjitb/multi-nginx ./nginx
-  - docker build -t prasanjitb/multi-server ./server
-  - docker build -t prasanjitb/multi-worker ./worker
+  - docker build -t cursedwolf/multi-client ./client
+  - docker build -t cursedwolf/multi-nginx ./nginx
+  - docker build -t cursedwolf/multi-server ./server
+  - docker build -t cursedwolf/multi-worker ./worker
   #Login to docker-cli Taking images and pushing to hub
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
-  - docker push prasanjitb/multi-client
-  - docker push prasanjitb/multi-nginx
-  - docker push prasanjitb/multi-server
-  - docker push prasanjitb/multi-worker
+  - docker push cursedwolf/multi-client
+  - docker push cursedwolf/multi-nginx
+  - docker push cursedwolf/multi-server
+  - docker push cursedwolf/multi-worker
