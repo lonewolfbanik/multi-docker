@@ -1,0 +1,35 @@
+sudo: required
+services:
+  - docker
+
+before_install: 
+  - docker build -t prasanjitb/react-test -f ./client/Dockerfile.dev ./client
+
+script:
+  - docker run prasanjitb/react-test npm test -- --coverage
+
+after_success:
+  - docker build -t prasanjitb/multi-client ./client
+  - docker build -t prasanjitb/multi-nginx ./nginx
+  - docker build -t prasanjitb/multi-server ./server
+  - docker build -t prasanjitb/multi-worker ./worker
+  #Login to docker-cli Taking images and pushing to hub
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
+  - docker push prasanjitb/multi-client
+  - docker push prasanjitb/multi-nginx
+  - docker push prasanjitb/multi-server
+  - docker push prasanjitb/multi-worker
+
+
+deploy:
+  provider: elasticbeanstalk
+  region: "us-east-1"
+  app: "docker-react-aws"
+  env: "DockerReactAws-env"
+  bucket_name: "elasticbeanstalk-us-east-1-000052450482"
+  bucket_path: "docker"
+  on:
+    branch: master
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key:
+    secure: "$AWS_SECRET_KEY"
