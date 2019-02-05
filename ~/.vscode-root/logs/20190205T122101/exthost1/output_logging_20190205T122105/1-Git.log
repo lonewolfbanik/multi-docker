@@ -88,3 +88,86 @@ fatal: no upstream configured for branch 'master'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git show :client/nginx/default.conf
+> git show :client/nginx/default.conf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :docker-compose.yml
+> git show :.travis.yml
+> git show :client/src/App.js
+> git show :docker-compose.yml
+> git show :client/nginx/default.conf
+> git show :Dockerrun.aws.json
+> git show :client/src/index.js
+> git show :client/src/App.js
+> git show :client/src/index.js
+> git show :server/index.js
+> git show :server/keys.js
+> git show :server/Dockerfile
+> git show :server/package.json
+> git show :Dockerrun.aws.json
+> git show :server/Dockerfile
+> git show :.travis.yml
+> git show :Dockerrun.aws.json
+> git show :docker-compose.yml
+> git show :.travis.yml
+> git show :worker/package.json
+> git show :worker/keys.js
+> git show :worker/index.js
+> git show :worker/Dockerfile.dev
+> git show :worker/Dockerfile
+> git show :server/keys.js
+> git show :server/Dockerfile
+> git show :nginx/default.conf
+> git show :client/nginx/default.conf
+> git show :nginx/default.conf
+> git show :client/nginx/default.conf
+> git show :nginx/default.conf
+> git show :client/nginx/default.conf
+> git show :client/src/OtherPage.js
+> git show :client/Dockerfile
+> git show :nginx/Dockerfile
+> git show :client/Dockerfile
+> git show :nginx/default.conf
+> git show :server/index.js
+> git show :worker/index.js
+> git show :server/index.js
+> git show :worker/keys.js
+> git show :worker/index.js
+> git show :server/index.js
+> git show :client/nginx/default.conf
+> git show :nginx/default.conf
+> git show :.travis.yml
+> git show :server/Dockerfile
+> git show :server/Dockerfile.dev
+> git show :server/Dockerfile
+> git show :server/Dockerfile.dev
+> git show :nginx/default.conf
+> git show :nginx/Dockerfile
+> git show :client/nginx/default.conf
+> git show :nginx/default.conf
+> git show :server/keys.js
+> git show :docker-compose.yml
+> git show :Dockerrun.aws.json
+> git show :server/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :server/index.js
