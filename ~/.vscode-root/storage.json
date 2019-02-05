@@ -9,5 +9,25 @@
             "file:///home/lonewolf/Desktop/complex/server"
         ],
         "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/lonewolf/Desktop/complex",
+                "external": "file:///home/lonewolf/Desktop/complex",
+                "path": "/home/lonewolf/Desktop/complex",
+                "scheme": "file"
+            },
+            "backupPath": "/home/lonewolf/Desktop/complex/~/.vscode-root/Backups/a97029d75c4b26be9f2cc9803efe707c",
+            "uiState": {
+                "mode": 0,
+                "x": 39,
+                "y": 24,
+                "width": 1321,
+                "height": 649
+            }
+        }
     }
 }
