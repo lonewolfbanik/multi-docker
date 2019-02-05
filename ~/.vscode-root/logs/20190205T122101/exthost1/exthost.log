@@ -20,3 +20,5 @@
 [2019-02-05 12:21:07.212] [exthost] [info] eager extensions activated
 [2019-02-05 12:57:31.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
 [2019-02-05 12:57:31.173] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-02-05 13:32:05.654] [exthost] [info] ExtensionService#_doActivateExtension PeterJausovec.vscode-docker {"startup":false,"activationEvent":"onLanguage:yaml"}
+[2019-02-05 13:32:05.656] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/peterjausovec.vscode-docker-0.5.2/entrypoint
